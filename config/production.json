@@ -1,5 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://youfu:youfu123@atlascluster.cd56c.mongodb.net/?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken",
-  "githubToken": "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"
-}
